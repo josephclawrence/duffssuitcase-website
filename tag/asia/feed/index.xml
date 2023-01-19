@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Asia Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/asia/feed/?simply_static_page=45635" rel="self" type="application/rss+xml" />
+	<link>/tag/asia/</link>
+	<description></description>
+	<lastBuildDate>Thu, 28 Jan 2016 13:28:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Now and Zen: travels in Japan</title>
+		<link>/now-and-zen-travels-in-japan/</link>
+					<comments>/now-and-zen-travels-in-japan/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2016 12:50:34 +0000</pubDate>
+				<category><![CDATA[Asia]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">/?p=4656</guid>
+
+					<description><![CDATA[<p>Behind an inconspicuous wooden door marked only with a tiny sign on a side street of Tokyo’s Azabu-Juban district lies Gen Yamamoto bar. With just eight seats around a counter of Japanese oak, no music, no food and bare walls, this tiny bar is an spartan temple to cocktails. Here, the white jacketed Gen Yamamoto, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/now-and-zen-travels-in-japan/">Now and Zen: travels in Japan</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/now-and-zen-travels-in-japan/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>travel writing Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/travel-writing/feed/?simply_static_page=45767" rel="self" type="application/rss+xml" />
+	<link>/tag/travel-writing/</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 Oct 2014 03:58:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Interview with Justin Fox</title>
+		<link>/interview-justin-fox/</link>
+					<comments>/interview-justin-fox/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 14:33:05 +0000</pubDate>
+				<category><![CDATA[Travellers]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[travel writing]]></category>
+		<guid isPermaLink="false">/?p=3640</guid>
+
+					<description><![CDATA[<p>I realised the other day, when scrolling through my Facebook feed and coming across photo after amazing photo of friends in exotic places around the world, that I know some pretty interesting travellers &#8211; people who spend most of their lives on the road, writing stories and taking photos of their adventures across the planet. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/interview-justin-fox/">Interview with Justin Fox</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/interview-justin-fox/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What I love about Costa Rica	</title>
+	<atom:link href="/what-i-love-about-costa-rica/feed/?simply_static_page=46606" rel="self" type="application/rss+xml" />
+	<link>/what-i-love-about-costa-rica/</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Mar 2015 11:47:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: James		</title>
+		<link>/what-i-love-about-costa-rica/#comment-173352</link>
+
+		<dc:creator><![CDATA[James]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2015 11:47:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4056#comment-173352</guid>
+
+					<description><![CDATA[Incredible images as always]]></description>
+			<content:encoded><![CDATA[<p>Incredible images as always</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Leanne		</title>
+		<link>/what-i-love-about-costa-rica/#comment-171575</link>
+
+		<dc:creator><![CDATA[Leanne]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2015 15:35:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4056#comment-171575</guid>
+
+					<description><![CDATA[I always love your photos! They really do speak so many words without saying anything at all.]]></description>
+			<content:encoded><![CDATA[<p>I always love your photos! They really do speak so many words without saying anything at all.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mauritius Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/mauritius/feed/?simply_static_page=45725" rel="self" type="application/rss+xml" />
+	<link>/tag/mauritius/</link>
+	<description></description>
+	<lastBuildDate>Fri, 25 Apr 2014 13:01:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Learning the art of travel in Mauritius</title>
+		<link>/learning-the-art-of-travel-mauritius/</link>
+					<comments>/learning-the-art-of-travel-mauritius/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Mon, 12 Aug 2013 12:31:39 +0000</pubDate>
+				<category><![CDATA[Mauritius]]></category>
+		<guid isPermaLink="false">http://www.duffssuitcase.com/?p=812</guid>
+
+					<description><![CDATA[<p>My first flight over the Indian Ocean was on my eighth birthday. I was going to Mauritius with my family on a beach resort holiday that I&#8217;d been excited about for months. I was terrified. The idea that such a big plane could be supported by air didn&#8217;t make logical sense and left me feeling [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/learning-the-art-of-travel-mauritius/">Learning the art of travel in Mauritius</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/learning-the-art-of-travel-mauritius/feed/</wfw:commentRss>
+			<slash:comments>24</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

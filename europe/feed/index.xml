@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Europe Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/europe/feed/?simply_static_page=45560" rel="self" type="application/rss+xml" />
+	<link>/europe/</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Oct 2017 14:18:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Two weeks in Montenegro</title>
+		<link>/two-weeks-montenegro/</link>
+					<comments>/two-weeks-montenegro/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2017 17:21:17 +0000</pubDate>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Montenegro]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hiking]]></category>
+		<category><![CDATA[mountains]]></category>
+		<guid isPermaLink="false">/?p=5091</guid>
+
+					<description><![CDATA[<p>After a year of studying in London (with not much adventurous travel) I was in need of a break. I wanted to go somewhere in Europe which would offer a bit of autumn sunshine,  a bit of ocean swimming, mountains, some good food, no Internet connection and a lot of hiking. Without knowing that much [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/two-weeks-montenegro/">Two weeks in Montenegro</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/two-weeks-montenegro/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A road trip around Iceland</title>
+		<link>/a-road-trip-around-iceland/</link>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2015 12:08:25 +0000</pubDate>
+				<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Iceland]]></category>
+		<category><![CDATA[Road trip]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[road trip]]></category>
+		<category><![CDATA[road tripping]]></category>
+		<guid isPermaLink="false">/?p=4155</guid>
+
+					<description><![CDATA[<p>I&#8217;ve always wanted to visit Iceland, but I always saw it in the same league as Antarctica: the kind of place that I&#8217;d maybe get to later in my life, when I have more money. Like Antarctica, it seemed so far away and so expensive &#8211; a place you save up to see after you&#8217;ve gone [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/a-road-trip-around-iceland/">A road trip around Iceland</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Switzerland without the skis</title>
+		<link>/switzerland-without-the-skis/</link>
+					<comments>/switzerland-without-the-skis/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 09:23:26 +0000</pubDate>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">http://www.duffssuitcase.com/?p=948</guid>
+
+					<description><![CDATA[<p>When I first saw the itinerary of my trip to central Switzerland in the middle of winter I thought there was a page missing. Where was the bit where we skiied for days? I&#8217;d been to Switzerland before and all I&#8217;d done was ski and eat mountains of chocolate. It turns out that there&#8217;s a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/switzerland-without-the-skis/">Switzerland without the skis</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/switzerland-without-the-skis/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

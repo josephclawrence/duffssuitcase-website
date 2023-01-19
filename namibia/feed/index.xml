@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Namibia Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/namibia/feed/?simply_static_page=48979" rel="self" type="application/rss+xml" />
+	<link>/namibia/</link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Jan 2016 08:21:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Dreaming of Namibia</title>
+		<link>/dreaming-of-namibia/</link>
+					<comments>/dreaming-of-namibia/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2013 10:36:08 +0000</pubDate>
+				<category><![CDATA[desert]]></category>
+		<category><![CDATA[Namibia]]></category>
+		<category><![CDATA[photo blog]]></category>
+		<guid isPermaLink="false">http://www.duffssuitcase.com/?p=224</guid>
+
+					<description><![CDATA[<p>Namibia is one of my favourite countries. I haven&#8217;t been for two years now and I&#8217;m starting to feel an intense longing for its open spaces,  giant night skies, seas of red sand dunes, apple pie bakery in the middle of nowhere, desert horses, incongruous German towns of Bavarian architecture, weissbier and sauerkraut, and the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dreaming-of-namibia/">Dreaming of Namibia</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/dreaming-of-namibia/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

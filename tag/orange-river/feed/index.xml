@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Orange River Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/orange-river/feed/?simply_static_page=45741" rel="self" type="application/rss+xml" />
+	<link>/tag/orange-river/</link>
+	<description></description>
+	<lastBuildDate>Tue, 04 Mar 2014 20:49:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Why Orange River rafting was my best holiday ever</title>
+		<link>/why-orange-river-rafting-was-my-best-holiday-ever/</link>
+					<comments>/why-orange-river-rafting-was-my-best-holiday-ever/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2014 08:21:26 +0000</pubDate>
+				<category><![CDATA[desert]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Namibia]]></category>
+		<category><![CDATA[Orange River]]></category>
+		<guid isPermaLink="false">http://www.duffssuitcase.com/?p=920</guid>
+
+					<description><![CDATA[<p>I&#8217;ve been wanting to go rafting on the Orange River for years but somehow had never got round to it. At the end of last year I got a big group of friends together and we drove up to Namibia from Cape Town the day after Christmas and then ended up having the best holiday [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/why-orange-river-rafting-was-my-best-holiday-ever/">Why Orange River rafting was my best holiday ever</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/why-orange-river-rafting-was-my-best-holiday-ever/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

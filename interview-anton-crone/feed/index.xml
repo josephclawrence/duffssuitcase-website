@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Interview with Anton Crone	</title>
+	<atom:link href="/interview-anton-crone/feed/?simply_static_page=41280" rel="self" type="application/rss+xml" />
+	<link>/interview-anton-crone/</link>
+	<description></description>
+	<lastBuildDate>Wed, 12 Aug 2015 01:16:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Katarina		</title>
+		<link>/interview-anton-crone/#comment-211046</link>
+
+		<dc:creator><![CDATA[Katarina]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2015 00:25:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3668#comment-211046</guid>
+
+					<description><![CDATA[I love reading interviews with travellers, it lets me learn so much about travel!]]></description>
+			<content:encoded><![CDATA[<p>I love reading interviews with travellers, it lets me learn so much about travel!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Brad		</title>
+		<link>/interview-anton-crone/#comment-210980</link>
+
+		<dc:creator><![CDATA[Brad]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2015 14:08:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3668#comment-210980</guid>
+
+					<description><![CDATA[This is lovely.]]></description>
+			<content:encoded><![CDATA[<p>This is lovely.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

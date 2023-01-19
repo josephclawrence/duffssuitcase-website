@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Peru Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/south-america/peru/feed/?simply_static_page=47553" rel="self" type="application/rss+xml" />
+	<link>/south-america/peru/</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Mar 2015 21:10:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Four months of South America in photos</title>
+		<link>/four-months-of-south-america-in-photos/</link>
+					<comments>/four-months-of-south-america-in-photos/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2015 19:57:02 +0000</pubDate>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Chile]]></category>
+		<category><![CDATA[Colombia]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[South America]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">/?p=4060</guid>
+
+					<description><![CDATA[<p>The second part of this year-long around-the-world trip (after a three-month stint in the USA), was South America, a continent I had never visited. It had always seemed so far from South Africa, so I felt like a normal-length two-week trip would never cut it. I saved up South America for a time when I [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/four-months-of-south-america-in-photos/">Four months of South America in photos</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/four-months-of-south-america-in-photos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Machu Picchu in photos</title>
+		<link>/machu-picchu-photos/</link>
+					<comments>/machu-picchu-photos/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 23 Jan 2015 21:20:23 +0000</pubDate>
+				<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[South America]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Machu Picchu]]></category>
+		<guid isPermaLink="false">/?p=3863</guid>
+
+					<description><![CDATA[<p>Photos of famous sights can be misleading. The Pyramids of Giza look like they&#8217;re in the middle of the desert, surrounded by empty horizons of sand, while they&#8217;re actually on the edge of the dirty, chaotic city, a Pizza Hut and KFC just across the road. Stonehenge looks like it&#8217;s in an English bucolic paradise, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/machu-picchu-photos/">Machu Picchu in photos</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/machu-picchu-photos/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

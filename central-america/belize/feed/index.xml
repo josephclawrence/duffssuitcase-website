@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Belize Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/central-america/belize/feed/?simply_static_page=46569" rel="self" type="application/rss+xml" />
+	<link>/central-america/belize/</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 Jun 2015 13:39:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Three months of Central America and Mexico in photos</title>
+		<link>/three-months-of-central-america-and-mexico-in-photos/</link>
+					<comments>/three-months-of-central-america-and-mexico-in-photos/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2015 13:12:29 +0000</pubDate>
+				<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Belize]]></category>
+		<category><![CDATA[Central America]]></category>
+		<category><![CDATA[Costa Rica]]></category>
+		<category><![CDATA[Mexico]]></category>
+		<category><![CDATA[North America]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Guatemala]]></category>
+		<guid isPermaLink="false">/?p=4223</guid>
+
+					<description><![CDATA[<p>Starting out a trip through Central America with six weeks of learning to surf on the Pacific Coast of Costa Rica was a good beginning. From there on it just got better: road tripping around the bumpy roads of Costa Rica in a Suzuki Jimny, exploring Monteverde Cloud Forest, hiking up volcanoes and staying in a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/three-months-of-central-america-and-mexico-in-photos/">Three months of Central America and Mexico in photos</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/three-months-of-central-america-and-mexico-in-photos/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

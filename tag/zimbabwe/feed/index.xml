@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zimbabwe Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/zimbabwe/feed/?simply_static_page=45778" rel="self" type="application/rss+xml" />
+	<link>/tag/zimbabwe/</link>
+	<description></description>
+	<lastBuildDate>Wed, 30 Mar 2016 13:19:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Green season in Hwange</title>
+		<link>/green-season-hwange/</link>
+					<comments>/green-season-hwange/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2016 12:37:40 +0000</pubDate>
+				<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Zimbabwe]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hwange National Park]]></category>
+		<guid isPermaLink="false">/?p=4773</guid>
+
+					<description><![CDATA[<p>Travelling to the bush at the tail end of rainy season means you really have to get into birds if you aren’t already. In the dry season in Hwange National Park, many thousands of elephants in huge herds – just part of a population of 75 000 – can be seen, along with herds of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/green-season-hwange/">Green season in Hwange</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/green-season-hwange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

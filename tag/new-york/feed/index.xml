@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New York Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/new-york/feed/?simply_static_page=45735" rel="self" type="application/rss+xml" />
+	<link>/tag/new-york/</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Jul 2014 17:18:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>New York, New York</title>
+		<link>/new-york-new-york/</link>
+					<comments>/new-york-new-york/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2014 16:53:02 +0000</pubDate>
+				<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[USA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[New York]]></category>
+		<guid isPermaLink="false">/?p=3508</guid>
+
+					<description><![CDATA[<p>&#8220;One belongs to New York instantly, one belongs to it as much in five minutes as in five years.&#8221; &#8211; Tom Wolfe I started off my year-around-the-world trip with a bang by living in the greatest city in the world. There&#8217;s nowhere quite like New York, a city so mesmerising, enthralling and dramatic that it cannot fail [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/new-york-new-york/">New York, New York</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/new-york-new-york/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Iceland Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/europe/iceland/feed/?simply_static_page=46475" rel="self" type="application/rss+xml" />
+	<link>/europe/iceland/</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Aug 2015 08:28:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>A road trip around Iceland</title>
+		<link>/a-road-trip-around-iceland/</link>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2015 12:08:25 +0000</pubDate>
+				<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Iceland]]></category>
+		<category><![CDATA[Road trip]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[road trip]]></category>
+		<category><![CDATA[road tripping]]></category>
+		<guid isPermaLink="false">/?p=4155</guid>
+
+					<description><![CDATA[<p>I&#8217;ve always wanted to visit Iceland, but I always saw it in the same league as Antarctica: the kind of place that I&#8217;d maybe get to later in my life, when I have more money. Like Antarctica, it seemed so far away and so expensive &#8211; a place you save up to see after you&#8217;ve gone [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/a-road-trip-around-iceland/">A road trip around Iceland</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

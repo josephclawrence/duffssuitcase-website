@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mashpi Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/mashpi/feed/?simply_static_page=45723" rel="self" type="application/rss+xml" />
+	<link>/tag/mashpi/</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Feb 2015 21:29:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Mashpi: a cocoon in an Ecuadorian cloud forest</title>
+		<link>/mashpi-a-cocoon-in-an-ecuadorian-cloud-forest/</link>
+					<comments>/mashpi-a-cocoon-in-an-ecuadorian-cloud-forest/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 20:34:52 +0000</pubDate>
+				<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Conservation]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[South America]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[forest]]></category>
+		<category><![CDATA[Mashpi]]></category>
+		<guid isPermaLink="false">/?p=3875</guid>
+
+					<description><![CDATA[<p>I have a special place in my heart for cloud forests. There&#8217;s something undeniably magical about being in a world of trees, where every view is of hills of green wrapped in thick bands of mist, and every piece of moss is covered in jewel-like droplets of water. After a week in the natural Disneyworld [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/mashpi-a-cocoon-in-an-ecuadorian-cloud-forest/">Mashpi: a cocoon in an Ecuadorian cloud forest</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/mashpi-a-cocoon-in-an-ecuadorian-cloud-forest/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

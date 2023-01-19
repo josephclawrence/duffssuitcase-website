@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Argentina Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/argentina/feed/?simply_static_page=45630" rel="self" type="application/rss+xml" />
+	<link>/tag/argentina/</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Mar 2015 21:10:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Four months of South America in photos</title>
+		<link>/four-months-of-south-america-in-photos/</link>
+					<comments>/four-months-of-south-america-in-photos/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2015 19:57:02 +0000</pubDate>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Chile]]></category>
+		<category><![CDATA[Colombia]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Peru]]></category>
+		<category><![CDATA[South America]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">/?p=4060</guid>
+
+					<description><![CDATA[<p>The second part of this year-long around-the-world trip (after a three-month stint in the USA), was South America, a continent I had never visited. It had always seemed so far from South Africa, so I felt like a normal-length two-week trip would never cut it. I saved up South America for a time when I [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/four-months-of-south-america-in-photos/">Four months of South America in photos</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/four-months-of-south-america-in-photos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>In Patagonia</title>
+		<link>/patagonia/</link>
+					<comments>/patagonia/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 20:55:44 +0000</pubDate>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Around the world]]></category>
+		<category><![CDATA[Chile]]></category>
+		<category><![CDATA[South America]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hiking]]></category>
+		<category><![CDATA[mountains]]></category>
+		<category><![CDATA[Patagonia]]></category>
+		<category><![CDATA[wilderness]]></category>
+		<guid isPermaLink="false">/?p=3673</guid>
+
+					<description><![CDATA[<p>For years before I even knew exactly where it was, the word Patagonia conjured up a magical idea of the unknown, the untouched, the wild. When I found it on a map it seemed so remote to be the kind of place I thought I&#8217;d never get to. It was my fantasy travel destination &#8211; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/patagonia/">In Patagonia</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/patagonia/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

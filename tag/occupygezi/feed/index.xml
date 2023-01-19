@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#occupygezi Archives - Duff&#039;s Suitcase</title>
+	<atom:link href="/tag/occupygezi/feed/?simply_static_page=45619" rel="self" type="application/rss+xml" />
+	<link>/tag/occupygezi/</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jun 2013 17:12:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>On being part of #OccupyGezi</title>
+		<link>/on-being-part-of-occupygezi/</link>
+					<comments>/on-being-part-of-occupygezi/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah Duff]]></dc:creator>
+		<pubDate>Thu, 13 Jun 2013 17:12:13 +0000</pubDate>
+				<category><![CDATA[Turkey]]></category>
+		<category><![CDATA[#occupygezi]]></category>
+		<category><![CDATA[Istanbul]]></category>
+		<guid isPermaLink="false">http://www.duffssuitcase.com/?p=473</guid>
+
+					<description><![CDATA[<p>After enthusiastically planning a first-time trip to Turkey for months, my boyfriend Joe and I arrived in Istanbul two weeks ago and immersed ourselves in this amazing city. On our second day there, we unwittingly became part of the protests against the building of a shopping mall in Gezi Park when we were strolling down [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/on-being-part-of-occupygezi/">On being part of #OccupyGezi</a> appeared first on <a rel="nofollow" href="/">Duff&#039;s Suitcase</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/on-being-part-of-occupygezi/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
